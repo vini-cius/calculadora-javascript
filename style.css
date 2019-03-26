@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'DS-Digital';
+    src: url('DS-Digital.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.calculadora {
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #00B5AF;
+}
+
+.resultado {
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'DS-Digital';
+    font-size: 25px;
+    box-shadow: 1px 1px 1px #000;
+}
+
+.btn {
+    margin: 5px;
+    width: 60px;
+    height: 50px;
+}
+
+.backspace {
+    width: 130px;
+}
+
+.igual {
+    height: 170px;
+}
+
+.zero {
+    width: 130px;
+}
